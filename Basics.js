@@ -11,3 +11,4 @@ if (X>v) {
 } else {
     console.log("5 is greater")
 }
+console.log("Github Success")
